@@ -6,6 +6,10 @@ To install the project dependencies, run the following command:
 npm install
 ```
 
+https://github.com/user-attachments/assets/a0575fe4-ef33-42ad-a0ac-f2ddfa789cf1
+
+
+
 # Usage
 
 To start the development server, run the following command:
