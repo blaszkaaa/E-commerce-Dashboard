@@ -1,3 +1,5 @@
+# Link
+https://blaszkaaa.github.io/E-commerce-Dashboard/
 # Installation
 
 To install the project dependencies, run the following command:
